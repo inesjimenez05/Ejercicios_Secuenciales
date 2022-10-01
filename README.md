@@ -1,1 +1,1 @@
-# Ejercios_Secuenciales
+# Ejercicios_Secuenciales
