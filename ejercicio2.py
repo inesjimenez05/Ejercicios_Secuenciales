@@ -1,4 +1,5 @@
-#Ejercicio_2
+#2_Calcular el perímetro y área de un rectángulo dada su base y su altura.
+
 
 from email.mime import base
 
