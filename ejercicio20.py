@@ -18,4 +18,4 @@ monedas20=(int)(input("Número de monedas de 20 cent \n"))
 monedas10=(int)(input("Número de monedas de 10 cent \n"))
 
 total=((monedas2*200)+(monedas1*100))+((monedas50*50)+(monedas20*20)+(monedas10*10))
-print(" Euros:",trunc(total/100),"€", "Céntimos: ",(total%100), "cent")
+print(" Euros:",int(total/100),"€", "Céntimos: ",(total%100), "cent")
