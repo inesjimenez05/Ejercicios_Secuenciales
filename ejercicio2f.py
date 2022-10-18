@@ -9,7 +9,9 @@ def imprimir_areaYperimetro ():
 
 imprimir_areaYperimetro()
 
+
 '''
+
 def imprimir_perimetro():
     base=int(input("Diga la base: \n"))
     altura=int(input("Diga la altura: \n"))
@@ -25,4 +27,5 @@ area=imprimir_area()
 
 print("El perímetro del triángulo es: ", perimetro)
 print("El área del triángulo es", area)
+
 '''
