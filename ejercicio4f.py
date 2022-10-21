@@ -3,7 +3,8 @@
 def imprimirSuma ():
     num1=int(input("Di un numero: \n"))
     num2=int(input("Di un numero: \n"))
-    suma= num1+num2
-    return suma
+    print("La suma es " ,num1+num2)
+
+imprimirSuma()
 
     
