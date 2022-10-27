@@ -9,3 +9,4 @@ for num in range (1,10):
 vNombres=["Ángel","María","Jose"]
 for nombre in vNombres:
     print (nombre)
+    
